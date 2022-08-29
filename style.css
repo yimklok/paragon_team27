@@ -108,6 +108,26 @@ section{
     font-size: 1.5rem;
 }
 
+.padding{
+    padding-right: 6rem;
+}
+.position{
+    position: relative;
+    border-radius: .5rem;
+}
+.sun-pos{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 5rem;
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+    background-color: rgba(31, 176, 60, 0.654);
+}
+.sun-pos span{
+    color: #fff;
+}
+
 
 
 
